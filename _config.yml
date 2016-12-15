@@ -13,17 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Site Title
+title: Jen Kilpatrick
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Musings from a software engineer turned business school student.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jenkilpatrick
+github_username:  jenkilptarick
 
 # Build settings
 markdown: kramdown
@@ -84,12 +82,12 @@ author:
   picture:        jenkilpatrick.jpg
   email:          your@email.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    I'm a software engineer turned business school student.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
+  twitter: jenkilpatrick
+  facebook: jenkilpatrick
+  github: jenkilpatrick
+  linkedin: jenkilpatrick
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -106,10 +104,13 @@ links:
     url: /
     external: false
     icon: home
+  - title: About
+    url: /about
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
+
 
 # Sitemap configuration
 # https://github.com/kinnetica/jekyll-plugins
