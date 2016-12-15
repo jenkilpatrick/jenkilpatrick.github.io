@@ -96,8 +96,8 @@ author:
   google_plus:    "http://plus.google.com/123123123123132123"
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
+google_analytics: UA-89018657-1
+google_verify: B9nG2KfsC_aKD00Kb7WocXh30KWOX7JaCIrzDecJQgI
 
 # Links to include in top navigation
 # For external links add external: true
