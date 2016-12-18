@@ -118,9 +118,9 @@ blockquote:before {
 }
 
 .cursive {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Raleway', sans-serif;
   color: #17e4d8;
-  font-size: 34px;
+  font-size: 28px;
   text-align: center;
 }
 /* - Form elements - */
@@ -2021,7 +2021,7 @@ a#slide:hover {
 }
 
 a#slide:after {
-  content: "F";
+  content: "J";
 }
 
 a#slide.slide:after {
