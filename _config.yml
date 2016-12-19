@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jen Kilpatrick
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
 
 #  Musings from a software engineer turned business school student.
@@ -81,7 +81,7 @@ jekyll-archives:
 author:
   name:           Jen Kilpatrick
   picture:        jenkilpatrick.jpg
-  email:          your@email.com
+  email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    I'm a software engineer turned business school student.
   # Social networking links used in footer. Update and remove as you like.
